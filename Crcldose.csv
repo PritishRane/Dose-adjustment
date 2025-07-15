@@ -1,0 +1,98 @@
+Drug,Range,Recommended Dose
+Levofloxacin, > 50,500 mg every 24h
+Levofloxacin, 30–50,250 mg every 24h
+Levofloxacin, < 30,250 mg every 48h
+Vancomycin, > 60,15 mg/kg every 12h
+Vancomycin, 30–60,15 mg/kg every 24h
+Vancomycin, < 30,15 mg/kg every 48h or monitor levels
+Cefepime, ? 60,2 g every 8h
+Cefepime, 30–59,2 g every 12h
+Cefepime, 11–29,1 g every 24h
+Cefepime, < 10,500 mg every 24h
+Piperacillin-Tazobactam, ? 40,4.5 g every 6h
+Piperacillin-Tazobactam, 20–39,3.375 g every 6h
+Piperacillin-Tazobactam, < 20,2.25 g every 8h
+Meropenem, > 50,1 g every 8h
+Meropenem, 26–50,1 g every 12h
+Meropenem, 10–25,500 mg every 12h
+Meropenem, < 10,500 mg every 24h
+Gentamicin, > 60,5–7 mg/kg every 24h
+Gentamicin, 30–60,5–7 mg/kg every 36h
+Gentamicin, < 30,5–7 mg/kg every 48h or monitor levels
+Amikacin, > 60,15 mg/kg every 24h
+Amikacin, 30–60,15 mg/kg every 36h
+Amikacin, < 30,15 mg/kg every 48h or monitor levels
+Aztreonam, > 60,1–2 g every 6–8h
+Aztreonam, 30–59,1–2 g every 8–12h
+Aztreonam, < 30,500–1000 mg every 12h
+Ciprofloxacin, > 50,400 mg every 12h
+Ciprofloxacin, 30–50,400 mg every 12h
+Ciprofloxacin, < 30,400 mg every 24h
+TMP-SMX, > 30,1 DS tab every 12h
+TMP-SMX, 15–30,1 DS tab every 24h
+TMP-SMX, < 15,Avoid or adjust based on levels
+Nitrofurantoin, > 60,100 mg every 12h
+Nitrofurantoin, < 60,Avoid use
+Linezolid,Any,No adjustment necessary
+Daptomycin, ? 30,4–6 mg/kg every 24h
+Daptomycin, < 30,4–6 mg/kg every 48h
+Acyclovir, > 50,5 mg/kg IV every 8h
+Acyclovir, 25–50,5 mg/kg IV every 12h
+Acyclovir, 10–25,5 mg/kg IV every 24h
+Acyclovir, < 10,2.5 mg/kg IV every 24h
+Valacyclovir, > 50,1000 mg PO every 12h
+Valacyclovir, 30–49,1000 mg PO every 24h
+Valacyclovir, 10–29,500 mg PO every 24h
+Valacyclovir, < 10,500 mg PO every 48h
+Fluconazole, > 50,"Normal dose (e.g., 400 mg daily)"
+Fluconazole, ? 50,Reduce dose by 50%
+Amphotericin B,Any,No dose adjustment needed
+Caspofungin,Any,No renal dose adjustment
+Metronidazole,Any,No renal dose adjustment
+Clindamycin,Any,No renal dose adjustment
+Rifampin,Any,No renal dose adjustment
+Doxycycline,Any,No renal dose adjustment
+Tetracycline, < 50,Avoid or use alternative
+Polymyxin B,Any,No renal adjustment (but monitor toxicity)
+Colistin , ? 80,2.5–5 mg/kg/day in 2–4 divided doses
+Colistin, 30–79,Reduce to 2.5 mg/kg every 24h
+Colistin, < 30,2.5 mg/kg every 36h or per levels
+Nitrofurantoin, > 60,100 mg every 12h
+Nitrofurantoin, 30–59,"Caution: reduced efficacy, avoid if possible"
+Nitrofurantoin, < 30,Avoi
+Imipenem-Cilastatin, > 70,500 mg every 6h
+Imipenem-Cilastatin, 41–70,500 mg every 8h
+Imipenem-Cilastatin, 21–40,250 mg every 8h
+Imipenem-Cilastatin, ? 20,250 mg every 12h
+Ertapenem, ? 30,1 g every 24h
+Ertapenem, < 30,500 mg every 24h
+Doripenem, > 50,500 mg every 8h
+Doripenem, 30–50,250 mg every 8h
+Doripenem, < 30,250 mg every 12h
+Ticarcillin-Clavulanate, ? 60,3.1 g every 4–6h
+Ticarcillin-Clavulanate, 30–59,3.1 g every 8h
+Ticarcillin-Clavulanate, < 30,3.1 g every 12h
+Nafcillin,Any,No renal dose adjustment
+Oxacillin,Any,No renal dose adjustment
+Ceftazidime, ? 50,1–2 g every 8h
+Ceftazidime, 30–49,1 g every 12h
+Ceftazidime, < 30,1 g every 24h
+Ceftriaxone,Any,No renal adjustment necessary
+Cefuroxime, > 50,750 mg every 8h
+Cefuroxime, 10–50,750 mg every 12h
+Cefuroxime, < 10,750 mg every 24h
+Cephalexin, > 50,250–500 mg every 6h
+Cephalexin, 25–50,250–500 mg every 8–12h
+Cephalexin, < 25,250–500 mg every 12–24h
+Fosfomycin, > 30,3 g PO single dose
+Fosfomycin, ? 30,Use with caution or avoid
+Minocycline, > 80,100 mg every 12h
+Minocycline, ? 80,"100 mg initial, then 100 mg daily"
+Chloramphenicol, < 50,"Use with caution, monitor serum levels"
+Rifabutin, < 30,Dose adjust (consult reference)
+Tedizolid,Any,No dose adjustment necessary
+Delafloxacin, ? 30,450 mg PO every 12h
+Delafloxacin, < 30,200 mg IV every 12h (PO use not recommended)
+Oritavancin,Any,No adjustment needed
+Dalbavancin,Any,No adjustment needed
+Moxifloxacin,Any,No adjustment needed
