@@ -6,7 +6,7 @@ import re
 # ------------------ Load and Clean Dose Table ------------------
 @st.cache_data
 def load_and_clean_data():
-    df = pd.read_csv("c:/Users/Administrator/Desktop/python prac/Crcldose.csv", encoding='ISO-8859-1')
+    df = pd.read_csv("Crcldose.csv", encoding='ISO-8859-1')
     
     # Clean column names
     df.columns = df.columns.str.strip()
